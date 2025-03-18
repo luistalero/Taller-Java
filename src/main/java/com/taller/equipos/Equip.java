@@ -8,6 +8,7 @@ public class Equip {
     public int id;
     public String name;
     public int yearfoundation;
-    public List<Estadistica> statistic;
+    public List<Estadistica> statistics;
     public String coach;
+    public List<Jugador> players;
 }
