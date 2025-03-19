@@ -1,4 +1,4 @@
-package com.taller.equipos;
+package com.taller.domain.models;
 
 import java.util.List;
 
